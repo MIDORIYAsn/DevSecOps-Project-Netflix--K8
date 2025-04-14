@@ -29,7 +29,7 @@
 
 ## 📷 Screenshots
 
-![Homepage](screenshots/homepage.png)
+![Homepage]("C:\Users\darkm\Downloads\PROJECT NETFLIX.png")
 ![Pipeline](screenshots/pipeline.png)
 *Add more screenshots in a folder named `screenshots`*
 
